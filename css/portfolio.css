@@ -1,0 +1,35 @@
+section#contact .section-contato {
+    text-transform: lowercase;
+    border: 5px solid #fff;
+    padding: 30px;
+}
+
+section#contact .section-contato a{
+	color: #fff;
+	    font-size: 60px;
+	text-decoration: none;
+}
+section#contact .section-contato a:hover{
+	color: #0CE89C;
+	-webkit-transition: all ease .5s;
+	-moz-transition: all ease .5s;
+	transition: all ease .5s;
+}
+
+.brandimg {
+	width: 55px;
+	float: left;
+	margin-right: 10px;
+	opacity: 0.7;
+	padding: 5px;
+}
+.brandimg:hover {
+	opacity: 1;
+		-webkit-transition: all ease .5s;
+	-moz-transition: all ease .5s;
+	transition: all ease .5s;
+}
+
+.navbar-default {
+	background-color: #222;
+}
