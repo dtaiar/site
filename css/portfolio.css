@@ -35,5 +35,17 @@ section#contact .section-contato a:hover{
 }
 
 .descricao {
-	background-color: #333333;
+	padding: 15px;
+	background-color: #f8f8f8;
+}
+.port-content {
+	border-radius: 15px;
+}
+
+.port-content .col-md-9 {
+	background-color: #fcfcfc;
+	box-shadow: 2px 0 6px 0 rgba(0,0,0,0.1);
+}
+.portfolio-modal .modal-content {
+	background-color: #f4f4f4
 }
